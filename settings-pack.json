@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026.11.09",
+  "version": "2026.11.10",
   "gameVersion": "OB55",
   "gameUpdated": "2026-09-16",
   "nextDate": "2026-12-13",
@@ -879,481 +879,96 @@
       6,
       90,
       6.74
+    ],
+    "IPHONE8": [
+      "iPhone 8",
+      "Apple A11",
+      50,
+      2,
+      60,
+      4.7
+    ],
+    "IPHONEX": [
+      "iPhone X",
+      "Apple A11",
+      52,
+      3,
+      60,
+      5.8
+    ],
+    "IPHONESE2020": [
+      "iPhone SE (2020)",
+      "Apple A13",
+      68,
+      3,
+      60,
+      4.7
+    ],
+    "IPHONESE2022": [
+      "iPhone SE (2022)",
+      "Apple A15",
+      78,
+      4,
+      60,
+      4.7
+    ],
+    "IPHONE11": [
+      "iPhone 11",
+      "Apple A13",
+      70,
+      4,
+      60,
+      6.1
+    ],
+    "IPHONE12": [
+      "iPhone 12",
+      "Apple A14",
+      78,
+      4,
+      60,
+      6.1
+    ],
+    "IPHONE14": [
+      "iPhone 14",
+      "Apple A15",
+      85,
+      6,
+      60,
+      6.1
+    ],
+    "IPHONE15": [
+      "iPhone 15",
+      "Apple A16",
+      90,
+      6,
+      60,
+      6.1
+    ],
+    "IPHONE15PROMAX": [
+      "iPhone 15 Pro Max",
+      "Apple A17 Pro",
+      94,
+      8,
+      120,
+      6.7
+    ],
+    "IPHONE16": [
+      "iPhone 16",
+      "Apple A18",
+      95,
+      8,
+      60,
+      6.1
+    ],
+    "IPHONE17": [
+      "iPhone 17",
+      "Apple A19",
+      96,
+      8,
+      120,
+      6.3
     ]
   },
-  "guide": [
-    {
-      "id": "fund",
-      "title": {
-        "ar": "أساسيات",
-        "en": "Fundamentals"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "اتحرك دايماً",
-            "en": "Keep moving"
-          },
-          "d": {
-            "ar": "الواقف بيتضرب بسهولة. اتحرك يمين وشمال بين كل رشقة، ومتجريش في خط مستقيم.",
-            "en": "A standing target is easy to hit. Strafe between bursts and never run in a straight line."
-          }
-        },
-        {
-          "t": {
-            "ar": "مستوى الكروس",
-            "en": "Crosshair height"
-          },
-          "d": {
-            "ar": "خلّي الكروس دايماً على مستوى الراس وانت بتتحرك، فتوفّر وقت التصويب.",
-            "en": "Keep the crosshair at head height while moving so you save aiming time."
-          }
-        },
-        {
-          "t": {
-            "ar": "البيك الآمن",
-            "en": "Safe peeking"
-          },
-          "d": {
-            "ar": "بيك سريع من الحافة ورجوع، بدل ما تقف مكشوف تبادل ضرب.",
-            "en": "Peek quickly from the edge and return instead of standing exposed in a trade."
-          }
-        },
-        {
-          "t": {
-            "ar": "حائط الجلو",
-            "en": "Gloo wall"
-          },
-          "d": {
-            "ar": "ارمي الحائط قبل ما تعالج أو تعيد تحميل، مش بعد ما تتضرب.",
-            "en": "Place the wall before you heal or reload, not after you are hit."
-          }
-        },
-        {
-          "t": {
-            "ar": "العلاج",
-            "en": "Healing"
-          },
-          "d": {
-            "ar": "اعالج وانت مستخبي، وما تقفش في الزون تعالج.",
-            "en": "Heal while hidden and never stand in the open to heal."
-          }
-        }
-      ]
-    },
-    {
-      "id": "rank",
-      "title": {
-        "ar": "رانكد",
-        "en": "Ranked"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "حسابات النقاط",
-            "en": "Points balance"
-          },
-          "d": {
-            "ar": "في الرانكد المركز بيفرق قد الكيلز تقريباً. لعب هادي وصح أحسن من نزول خطر.",
-            "en": "In ranked, placement matters about as much as kills. Calm, smart play beats risky drops."
-          }
-        },
-        {
-          "t": {
-            "ar": "التواصل",
-            "en": "Comms"
-          },
-          "d": {
-            "ar": "اتفقوا على مكان النزول والدور قبل البداية، واستخدموا البنج مش الكلام الكتير.",
-            "en": "Agree on the drop spot and roles before the start; use pings instead of long talk."
-          }
-        },
-        {
-          "t": {
-            "ar": "الزون",
-            "en": "Zone"
-          },
-          "d": {
-            "ar": "اتحرك للزون بدري واختار مكان فيه غطا، ومتسيبش نفسك تتعلّق في الدايرة الأخيرة.",
-            "en": "Rotate early to a spot with cover and do not get caught on the edge of the final circle."
-          }
-        },
-        {
-          "t": {
-            "ar": "الهدوء بعد الكيل",
-            "en": "After a kill"
-          },
-          "d": {
-            "ar": "بعد أي كيل، غيّر مكانك بدل ما تسرق اللوت وتقف مكشوف.",
-            "en": "After a kill, reposition instead of looting in the open."
-          }
-        }
-      ]
-    },
-    {
-      "id": "maps",
-      "title": {
-        "ar": "الخرائط",
-        "en": "Maps"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "قواعد عامة للخرايط",
-            "en": "General map rules"
-          },
-          "d": {
-            "ar": "المناطق الوسطية مليانة فرق، والأطراف أهدى ومكسبها لوت أقل. اختار نزولك على قد مستوى فريقك.",
-            "en": "Central zones are crowded; edges are calmer with less loot. Choose your drop to match your squad's level."
-          }
-        },
-        {
-          "t": {
-            "ar": "الأرض العالية",
-            "en": "High ground"
-          },
-          "d": {
-            "ar": "في أي خريطة، الأرض العالية بتدي رؤية وتحكم، بس بتكشفك. اتحرك بين الأسطح بحذر.",
-            "en": "On any map high ground gives vision and control but exposes you. Move between rooftops carefully."
-          }
-        },
-        {
-          "t": {
-            "ar": "الكباري والمضايق",
-            "en": "Bridges and chokepoints"
-          },
-          "d": {
-            "ar": "الكباري والمعابر الضيقة أماكن كمين. اعبرها بسرعة أو اتفادى بدائل.",
-            "en": "Bridges and narrow crossings are ambush spots. Cross quickly or pick another route."
-          }
-        },
-        {
-          "t": {
-            "ar": "الصحراء والمساحات المفتوحة",
-            "en": "Open desert areas"
-          },
-          "d": {
-            "ar": "المساحات المفتوحة بتحتاج سكوب وقناص وحائط جلو. متعدّيهاش من غير غطا.",
-            "en": "Open areas favor scopes and snipers. Never cross them without cover."
-          }
-        },
-        {
-          "t": {
-            "ar": "المباني القريبة",
-            "en": "Close quarters"
-          },
-          "d": {
-            "ar": "في المباني القريبة سلاح قصير المدى وحركة سريعة. اقفل الأبواب والسلالم.",
-            "en": "In close quarters use short-range weapons and fast movement. Control doors and stairs."
-          }
-        }
-      ]
-    },
-    {
-      "id": "weap",
-      "title": {
-        "ar": "الأسلحة",
-        "en": "Weapons"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "قريب: شوتجن وSMG",
-            "en": "Close: shotgun and SMG"
-          },
-          "d": {
-            "ar": "للمواجهات القريبة. شوتجن للدفعة الواحدة وSMG للتتبع السريع.",
-            "en": "For close fights: shotgun for a single burst, SMG for fast tracking."
-          }
-        },
-        {
-          "t": {
-            "ar": "متوسط: AR",
-            "en": "Mid: AR"
-          },
-          "d": {
-            "ar": "الأنسب للأغلب. اتحكم في الارتداد بسحب خفيف لتحت.",
-            "en": "Best all-rounder. Control recoil with a light pull downward."
-          }
-        },
-        {
-          "t": {
-            "ar": "بعيد: قناص",
-            "en": "Far: sniper"
-          },
-          "d": {
-            "ar": "اتنفس قبل الضربة، وغيّر مكانك بعد كل طلقة.",
-            "en": "Settle before the shot and change position after each one."
-          }
-        },
-        {
-          "t": {
-            "ar": "التبديل",
-            "en": "Switching"
-          },
-          "d": {
-            "ar": "جرّب كذا سلاح في التدريب. اللي تتحكم فيه أحسن من اللي بيقولوا عليه قوي.",
-            "en": "Try several weapons in training. The one you control beats the one called strong."
-          }
-        }
-      ]
-    },
-    {
-      "id": "squad",
-      "title": {
-        "ar": "الفريق",
-        "en": "Squad"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "حدّدوا أدوار",
-            "en": "Set roles"
-          },
-          "d": {
-            "ar": "واحد قائد بيدي الكول، واحد قناص، واحد دعم بيعالج. الفريق اللي كل واحد فيه عارف دوره بيكسب أكتر.",
-            "en": "One leader making calls, one sniper, one support who heals. A squad where everyone knows their role wins more."
-          }
-        },
-        {
-          "t": {
-            "ar": "البنج مش الكلام",
-            "en": "Ping, do not talk"
-          },
-          "d": {
-            "ar": "استخدم البنج للعدو والمكان واللوت. الكلام الكتير بيغطي على الصوت المهم.",
-            "en": "Use pings for enemies, positions and loot. Too much talk hides important sounds."
-          }
-        },
-        {
-          "t": {
-            "ar": "ما تفترقوش",
-            "en": "Stay close"
-          },
-          "d": {
-            "ar": "ابقوا قريبين من بعض بحيث تقدروا تنعشوا بعض بسرعة. اللي بيبعد لوحده بيتقفل عليه.",
-            "en": "Stay close enough to revive each other fast. A lone player gets picked off."
-          }
-        },
-        {
-          "t": {
-            "ar": "ركّزوا على واحد",
-            "en": "Focus one target"
-          },
-          "d": {
-            "ar": "ضربوا نفس العدو مع بعض بدل ما كل واحد يضرب واحد. بيموت أسرع.",
-            "en": "Shoot the same enemy together instead of one each. He goes down faster."
-          }
-        },
-        {
-          "t": {
-            "ar": "الإنعاش",
-            "en": "Reviving"
-          },
-          "d": {
-            "ar": "ما تنعشش وانت مكشوف. حط حائط جلو الأول وبعدين ابدأ.",
-            "en": "Do not revive in the open. Place a gloo wall first, then start."
-          }
-        }
-      ]
-    },
-    {
-      "id": "sound",
-      "title": {
-        "ar": "الصوت",
-        "en": "Audio"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "سماعة كويسة",
-            "en": "Good headphones"
-          },
-          "d": {
-            "ar": "الخطوات واتجاه الطلقات بتتسمع بوضوح في السماعة. ده أرخص تحسين للمستوى.",
-            "en": "Footsteps and shot direction are much clearer on headphones. It is the cheapest upgrade."
-          }
-        },
-        {
-          "t": {
-            "ar": "قلل الموسيقى",
-            "en": "Lower music"
-          },
-          "d": {
-            "ar": "اقفل موسيقى اللعبة أو قلّلها وخلّي المؤثرات أعلى.",
-            "en": "Turn the game music down or off and keep sound effects higher."
-          }
-        },
-        {
-          "t": {
-            "ar": "اسمع قبل ما تتحرك",
-            "en": "Listen first"
-          },
-          "d": {
-            "ar": "قبل ما تدخل مبنى، وقّف ثانيتين واسمع: خطوات وفتح أبواب وإعادة تحميل.",
-            "en": "Before entering a building, pause two seconds and listen for steps, doors and reloads."
-          }
-        },
-        {
-          "t": {
-            "ar": "لا تتكلم والعدو قريب",
-            "en": "Stay quiet near enemies"
-          },
-          "d": {
-            "ar": "ميكروفونك ممكن يوصّل صوتك للأعداء القريبين لو في نفس المنطقة.",
-            "en": "Your mic may let nearby enemies hear you if they are close."
-          }
-        }
-      ]
-    },
-    {
-      "id": "mind",
-      "title": {
-        "ar": "التركيز",
-        "en": "Mindset"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "استراحة كل 45 دقيقة",
-            "en": "Break every 45 min"
-          },
-          "d": {
-            "ar": "التعب بيقلل التركيز وبيزود الأخطاء. استراحة قصيرة بترجعك أحسن.",
-            "en": "Fatigue lowers focus and raises mistakes. A short break brings you back sharper."
-          }
-        },
-        {
-          "t": {
-            "ar": "متلعبش وانت متعصب",
-            "en": "Do not play tilted"
-          },
-          "d": {
-            "ar": "لو خسرت مباراتين ورا بعض بعصبية، وقّف شوية. القرارات بتبقى أسوأ.",
-            "en": "If you lost two matches in a row angrily, stop for a bit. Decisions get worse."
-          }
-        },
-        {
-          "t": {
-            "ar": "حلل الخسارة",
-            "en": "Review losses"
-          },
-          "d": {
-            "ar": "اسأل نفسك: ماتّ إزاي؟ مكشوف؟ مفيش غطا؟ استعجلت؟ الإجابة هي اللي تغيّرها.",
-            "en": "Ask yourself how you died: exposed, no cover, rushed? The answer is what to change."
-          }
-        },
-        {
-          "t": {
-            "ar": "هدف صغير لكل جلسة",
-            "en": "One small goal per session"
-          },
-          "d": {
-            "ar": "مثلاً: ما أقفش مكشوف أبداً. هدف واحد أحسن من عشرة.",
-            "en": "For example: never stand exposed. One goal beats ten."
-          }
-        }
-      ]
-    },
-    {
-      "id": "ingame",
-      "title": {
-        "ar": "إعدادات اللعبة",
-        "en": "In-game settings"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "زر النار",
-            "en": "Fire button"
-          },
-          "d": {
-            "ar": "جرّب حجم زر النار من الإعدادات بالمدى المقترح في التطبيق، وحط زر ثاني على الجنب لو بتلعب بـ3 صوابع أو أكتر.",
-            "en": "Try the fire button size suggested in the app and add a second button on the side if you play with three or more fingers."
-          }
-        },
-        {
-          "t": {
-            "ar": "التقاط تلقائي",
-            "en": "Auto pickup"
-          },
-          "d": {
-            "ar": "شغّل الالتقاط التلقائي للعناصر المهمة بس عشان ما تتبعترش اللوت.",
-            "en": "Enable auto pickup for important items only so your loot stays clean."
-          }
-        },
-        {
-          "t": {
-            "ar": "سيب الجايرو مقفول أول",
-            "en": "Gyro off at first"
-          },
-          "d": {
-            "ar": "ما تفعّلهوش قبل ما تتعود على الحساسية العادية.",
-            "en": "Do not enable gyro before you are comfortable with normal sensitivity."
-          }
-        },
-        {
-          "t": {
-            "ar": "ثبّت الـ HUD",
-            "en": "Keep your HUD fixed"
-          },
-          "d": {
-            "ar": "غيّر مكان الأزرار مرة واحدة وسيبه. تغيير كل يوم بيوقّف التعوّد.",
-            "en": "Set your button layout once and keep it. Changing daily stops muscle memory."
-          }
-        }
-      ]
-    },
-    {
-      "id": "loot",
-      "title": {
-        "ar": "اللوت",
-        "en": "Loot"
-      },
-      "items": [
-        {
-          "t": {
-            "ar": "خد الأساسيات",
-            "en": "Take the essentials"
-          },
-          "d": {
-            "ar": "درع، علاج، ذخيرة لسلاحك، وجرانيدات. الباقي حسب المساحة.",
-            "en": "Armor, healing, ammo for your weapon, and grenades. The rest depends on space."
-          }
-        },
-        {
-          "t": {
-            "ar": "سلاح واحد تتحكم فيه",
-            "en": "One weapon you control"
-          },
-          "d": {
-            "ar": "اتدرب على سلاحين كحد أقصى بدل ما تبدّل كل مباراة.",
-            "en": "Train two weapons at most instead of switching every match."
-          }
-        },
-        {
-          "t": {
-            "ar": "لوت الأعداء",
-            "en": "Enemy drops"
-          },
-          "d": {
-            "ar": "صندوق اللي مات بيجذب الفرق. اتأكد إن مفيش حد قريب قبل ما تقرّب.",
-            "en": "A defeated player's box attracts squads. Check nobody is close before approaching."
-          }
-        },
-        {
-          "t": {
-            "ar": "الجرانيدات",
-            "en": "Grenades"
-          },
-          "d": {
-            "ar": "استخدمها عشان تطلّع العدو من مخبأه، مش بس للضرر.",
-            "en": "Use them to force enemies out of cover, not just for damage."
-          }
-        }
-      ]
-    }
-  ],
   "notes": [
     {
       "ar": "الحساسية نقطة بداية مش رقم مضمون. كل إيد وكل موبايل مختلف، فاستخدم المعايرة وتمرين التصويب عشان توصل لرقمك.",
@@ -1378,6 +993,323 @@
     {
       "ar": "لو لسه جديد خلّي Aim Assist شغّال.",
       "en": "If you are new, keep Aim Assist on."
+    }
+  ],
+  "guide": [
+    {
+      "id": "basics",
+      "title": {
+        "ar": "الأساسيات",
+        "en": "Basics"
+      },
+      "items": [
+        {
+          "t": {
+            "ar": "اتحرك دايماً",
+            "en": "Keep moving"
+          },
+          "d": {
+            "ar": "الواقف بيتضرب بسهولة. اتحرك يمين وشمال بين كل رشقة.",
+            "en": "A standing target is easy to hit. Strafe between bursts."
+          }
+        },
+        {
+          "t": {
+            "ar": "الكروس على الراس",
+            "en": "Crosshair at head height"
+          },
+          "d": {
+            "ar": "خلّيه على مستوى الراس وانت بتتحرك، توفّر وقت التصويب.",
+            "en": "Keep it at head height while moving to save aiming time."
+          }
+        },
+        {
+          "t": {
+            "ar": "بيك سريع",
+            "en": "Quick peeks"
+          },
+          "d": {
+            "ar": "اطلع من الحافة وارجع بدل ما تقف مكشوف.",
+            "en": "Peek from the edge and return instead of standing exposed."
+          }
+        },
+        {
+          "t": {
+            "ar": "الجلو والعلاج",
+            "en": "Gloo and healing"
+          },
+          "d": {
+            "ar": "ارمي الحائط قبل ما تعالج أو تنعش، وعالج وانت مستخبي.",
+            "en": "Place the wall before healing or reviving, and heal under cover."
+          }
+        },
+        {
+          "t": {
+            "ar": "الجايرو مقفول أول",
+            "en": "Gyro off at first"
+          },
+          "d": {
+            "ar": "ما تفعّلهوش قبل ما تتعود على الحساسية العادية.",
+            "en": "Do not enable it until normal sensitivity feels comfortable."
+          }
+        },
+        {
+          "t": {
+            "ar": "زر النار",
+            "en": "Fire button"
+          },
+          "d": {
+            "ar": "جرّب الحجم المقترح في التطبيق، وزر ثاني على الجنب لو بتلعب بـ3 صوابع.",
+            "en": "Try the size suggested in the app, plus a side button if you use three fingers."
+          }
+        },
+        {
+          "t": {
+            "ar": "ثبّت الأزرار",
+            "en": "Fix your layout"
+          },
+          "d": {
+            "ar": "غيّر مكان الأزرار مرة واحدة وسيبه. التغيير كل يوم بيمسح التعوّد.",
+            "en": "Set your layout once. Changing it daily erases muscle memory."
+          }
+        }
+      ]
+    },
+    {
+      "id": "weap",
+      "title": {
+        "ar": "الأسلحة",
+        "en": "Weapons"
+      },
+      "items": [
+        {
+          "t": {
+            "ar": "قريب",
+            "en": "Close"
+          },
+          "d": {
+            "ar": "شوتجن للدفعة الواحدة وSMG للتتبع السريع.",
+            "en": "Shotgun for one burst, SMG for fast tracking."
+          }
+        },
+        {
+          "t": {
+            "ar": "متوسط",
+            "en": "Mid"
+          },
+          "d": {
+            "ar": "AR هو الأنسب. اسحب خفيف لتحت عشان الارتداد.",
+            "en": "AR is the best all-rounder. Pull lightly down for recoil."
+          }
+        },
+        {
+          "t": {
+            "ar": "بعيد",
+            "en": "Far"
+          },
+          "d": {
+            "ar": "اتنفس قبل الضربة وغيّر مكانك بعد كل طلقة.",
+            "en": "Settle before the shot and move after each one."
+          }
+        },
+        {
+          "t": {
+            "ar": "سلاحين بس",
+            "en": "Two weapons"
+          },
+          "d": {
+            "ar": "اتدرب على سلاحين بدل ما تبدّل كل مباراة.",
+            "en": "Train two weapons instead of switching every match."
+          }
+        },
+        {
+          "t": {
+            "ar": "الجرانيدات",
+            "en": "Grenades"
+          },
+          "d": {
+            "ar": "استخدمها تطلّع العدو من مخبأه مش بس للضرر.",
+            "en": "Use them to flush enemies out, not only for damage."
+          }
+        }
+      ]
+    },
+    {
+      "id": "maps",
+      "title": {
+        "ar": "الخرائط واللوت",
+        "en": "Maps and loot"
+      },
+      "items": [
+        {
+          "t": {
+            "ar": "اختار نزولك",
+            "en": "Pick your drop"
+          },
+          "d": {
+            "ar": "الوسط مزدحم والأطراف أهدى. اختار على قد مستواك.",
+            "en": "The center is crowded, edges are calmer. Match it to your level."
+          }
+        },
+        {
+          "t": {
+            "ar": "الأرض العالية",
+            "en": "High ground"
+          },
+          "d": {
+            "ar": "بتدي رؤية بس بتكشفك. اتحرك بين الأسطح بحذر.",
+            "en": "It gives vision but exposes you. Move between rooftops carefully."
+          }
+        },
+        {
+          "t": {
+            "ar": "الكباري والمساحات المفتوحة",
+            "en": "Bridges and open areas"
+          },
+          "d": {
+            "ar": "أماكن كمين. اعبرها بسرعة ومعاك غطا أو حائط.",
+            "en": "Ambush spots. Cross fast with cover or a wall."
+          }
+        },
+        {
+          "t": {
+            "ar": "خد الأساسيات",
+            "en": "Take the essentials"
+          },
+          "d": {
+            "ar": "درع، علاج، ذخيرة، جرانيدات. الباقي حسب المساحة.",
+            "en": "Armor, healing, ammo, grenades. The rest depends on space."
+          }
+        },
+        {
+          "t": {
+            "ar": "صناديق الأعداء",
+            "en": "Enemy boxes"
+          },
+          "d": {
+            "ar": "بتجذب الفرق. اتأكد إن محدش قريب قبل ما تقرّب.",
+            "en": "They attract squads. Check nobody is near before approaching."
+          }
+        }
+      ]
+    },
+    {
+      "id": "squad",
+      "title": {
+        "ar": "الفريق والصوت",
+        "en": "Squad and audio"
+      },
+      "items": [
+        {
+          "t": {
+            "ar": "أدوار واضحة",
+            "en": "Clear roles"
+          },
+          "d": {
+            "ar": "قائد وقناص ودعم. اللي عارف دوره بيكسب أكتر.",
+            "en": "Leader, sniper, support. Knowing your role wins more."
+          }
+        },
+        {
+          "t": {
+            "ar": "البنج مش الكلام",
+            "en": "Ping, don't talk"
+          },
+          "d": {
+            "ar": "البنج للعدو والمكان واللوت. الكلام الكتير بيغطي على الصوت.",
+            "en": "Ping enemies, spots and loot. Too much talk hides sounds."
+          }
+        },
+        {
+          "t": {
+            "ar": "ابقوا قريبين",
+            "en": "Stay close"
+          },
+          "d": {
+            "ar": "عشان تنعشوا بعض بسرعة، وركّزوا النار على نفس العدو.",
+            "en": "So you can revive fast, and focus fire on one enemy."
+          }
+        },
+        {
+          "t": {
+            "ar": "سماعة كويسة",
+            "en": "Good headphones"
+          },
+          "d": {
+            "ar": "الخطوات واتجاه الطلقات بتتسمع أوضح. أرخص تحسين للمستوى.",
+            "en": "Footsteps and shot direction are clearer. The cheapest upgrade."
+          }
+        },
+        {
+          "t": {
+            "ar": "اسمع قبل ما تدخل",
+            "en": "Listen before entering"
+          },
+          "d": {
+            "ar": "وقّف ثانيتين قبل أي مبنى: خطوات، أبواب، إعادة تحميل.",
+            "en": "Pause two seconds before a building: steps, doors, reloads."
+          }
+        }
+      ]
+    },
+    {
+      "id": "rank",
+      "title": {
+        "ar": "الرانكد والتركيز",
+        "en": "Ranked and focus"
+      },
+      "items": [
+        {
+          "t": {
+            "ar": "المركز زي الكيلز",
+            "en": "Placement counts"
+          },
+          "d": {
+            "ar": "لعب هادي وصح أحسن من نزول خطر.",
+            "en": "Calm, smart play beats risky drops."
+          }
+        },
+        {
+          "t": {
+            "ar": "الزون بدري",
+            "en": "Rotate early"
+          },
+          "d": {
+            "ar": "روح للزون بدري لمكان فيه غطا، متتعلّقش على الحافة.",
+            "en": "Rotate early to cover. Don't get stuck on the edge."
+          }
+        },
+        {
+          "t": {
+            "ar": "غيّر مكانك بعد الكيل",
+            "en": "Move after a kill"
+          },
+          "d": {
+            "ar": "متسرقش اللوت وانت مكشوف.",
+            "en": "Don't loot in the open."
+          }
+        },
+        {
+          "t": {
+            "ar": "استراحة كل 45 دقيقة",
+            "en": "Break every 45 min"
+          },
+          "d": {
+            "ar": "التعب بيزود الأخطاء. ولو خسرت مرتين بعصبية وقّف شوية.",
+            "en": "Fatigue adds mistakes. If you lose twice angry, stop for a bit."
+          }
+        },
+        {
+          "t": {
+            "ar": "حلل الخسارة",
+            "en": "Review losses"
+          },
+          "d": {
+            "ar": "ماتّ إزاي؟ مكشوف؟ مفيش غطا؟ غيّر ده بس.",
+            "en": "How did you die: exposed, no cover? Fix just that."
+          }
+        }
+      ]
     }
   ],
   "sensByModel": {
@@ -1868,6 +1800,94 @@
       150,
       95,
       140
+    ],
+    "IPHONE11": [
+      190,
+      180,
+      170,
+      160,
+      100,
+      140
+    ],
+    "IPHONE12": [
+      170,
+      165,
+      150,
+      140,
+      90,
+      125
+    ],
+    "IPHONE14": [
+      170,
+      165,
+      155,
+      145,
+      95,
+      125
+    ],
+    "IPHONE15": [
+      170,
+      170,
+      160,
+      150,
+      95,
+      125
+    ],
+    "IPHONE15PROMAX": [
+      180,
+      170,
+      160,
+      150,
+      95,
+      125
+    ],
+    "IPHONE16": [
+      170,
+      165,
+      150,
+      140,
+      90,
+      125
+    ],
+    "IPHONE17": [
+      170,
+      165,
+      150,
+      140,
+      90,
+      125
+    ],
+    "IPHONE8": [
+      190,
+      190,
+      180,
+      160,
+      105,
+      150
+    ],
+    "IPHONESE2020": [
+      195,
+      190,
+      180,
+      165,
+      105,
+      150
+    ],
+    "IPHONESE2022": [
+      180,
+      180,
+      170,
+      160,
+      95,
+      125
+    ],
+    "IPHONEX": [
+      185,
+      180,
+      170,
+      155,
+      100,
+      150
     ],
     "ITELA6610L": [
       195,
@@ -2484,9 +2504,9 @@
     ]
   },
   "app": {
-    "build": "2026.10.28.3",
+    "build": "2026.10.29.1",
     "url": "https://raw.githubusercontent.com/saqr-codes/SaQr-pro/main/app.dat",
-    "sha256": "e0cd67f8bede6b42aac571600178d732364afe69855f999c703fb2b2c517659e",
-    "chars": 152693
+    "sha256": "290fda904b406cc65a39cc475047e4b331300be11c7e8c8c4c1e7ccf42907880",
+    "chars": 150767
   }
 }
